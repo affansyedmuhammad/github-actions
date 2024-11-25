@@ -12,6 +12,8 @@ rules:
   assign: ['question']
 - contains: urgent
   assign: ['affansyedmuhammad']
+- contains: demo
+  assign: ['demo']
 
 # List that always runs after rules and nomatches. Look for missing sets of tags here.
 tags:
